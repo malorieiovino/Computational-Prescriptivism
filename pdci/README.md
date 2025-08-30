@@ -7,10 +7,10 @@ It measures:
 - **Hallucination Rate** → how much is invented in the summary
 - **Certainty Inflation Index (CII)** → how much uncertainty is turned into categorical certainty
 - **Pragmatic Distortion Score (PDS)** → weighted combination of the above
-- **PDCI** → overall score:  
+- **PDCI** → overall score:
+```
 PDCI = λ · CII + (1 − λ) · PDS
-
-
+```
 ---
 
 ## 📦 Installation
