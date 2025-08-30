@@ -17,7 +17,7 @@ This repository contains the complete implementation, data, and analysis for my 
 **Degree:** MA Computational Linguistics  
 **Institution:** Department of Computing, Goldsmiths, University of London  
 **Supervisors:** Dr. Geri Popova, Dr. Tony Russell-Rose, Dr. Gregory Mills  
-**Field Project Advisor:** Dr. Dave Lewis (Nextpoint)
+**Field Project Advisor:** Dr. Dave Lewis 
 
 ##  Abstract
 
@@ -33,7 +33,7 @@ This Master's thesis investigates computational prescriptivism as an algorithmic
 
 > How do large language models handle linguistic markers of uncertainty, conditional language, temporal expressions, and disfluency when summarizing legal deposition transcripts, and what does this reveal about their reliability and interpretability in general NLP applications?
 
-## 📖 Thesis Structure
+## Thesis Structure
 
 The complete thesis document ([PDF](thesis/Thesis.pdf)) includes:
 
