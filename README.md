@@ -35,7 +35,7 @@ This Master's thesis investigates computational prescriptivism as an algorithmic
 
 ## Thesis Structure
 
-The complete thesis document ([PDF](thesis/Thesis.pdf)) includes:
+The complete thesis document ([PDF](thesis/masterthesis.pdf)) includes:
 
 1. **Introduction** - Motivation and research questions
 2. **Literature Review** - Sociolinguistic variation, computational processing, summarization, legal NLP
