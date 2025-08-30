@@ -35,7 +35,7 @@ This Master's thesis investigates computational prescriptivism as an algorithmic
 
 ## 📖 Thesis Structure
 
-The complete thesis document ([PDF](thesis/thesis.pdf)) includes:
+The complete thesis document ([PDF](thesis/Thesis.pdf)) includes:
 
 1. **Introduction** - Motivation and research questions
 2. **Literature Review** - Sociolinguistic variation, computational processing, summarization, legal NLP
@@ -101,7 +101,7 @@ Computational-Prescriptivism/
 ├── code/                     # Source code implementation
 └── thesis/                   # Master's Thesis Document
 ```
-## 🔬 Methodology
+## Methodology
 
 ### Datasets
 - **Real Deposition Dataset**: 351 excerpts from 10 anonymized legal depositions
@@ -121,7 +121,7 @@ Computational-Prescriptivism/
 3. **Temporal Expressions** (e.g., "before", "after", "at the time")
 4. **Disfluency Markers** (e.g., "um", "uh", repetitions, self-corrections)
 
-## 📊 Key Results
+## Key Results
 
 ### Feature Retention Rates by Model
 
@@ -146,3 +146,21 @@ Computational-Prescriptivism/
 | Pegasus | 0.225 | Highest distortion |
 | GPT-3.5 (Default) | 0.193 | High distortion |
 | GPT-3.5 (Feature-Preserving) | 0.146 | Moderate distortion |
+
+## Academic Context 
+
+This thesis was completed as part of the MA Computational Linguistics programme at Goldsmiths, University of London. The research was conducted between September 2024 and September 2025, with field project support from Nextpoint, a legal technology company.
+
+### Programme Information
+
+Degree: Master of Arts in Computational Linguistics
+Department: Computing
+Institution: Goldsmiths, University of London
+Academic Year: 2024/2025
+
+## Ethical Considerations 
+
+This Master's thesis research was conducted with careful attention to ethical implications. All deposition transcripts were anonymized prior to use, with identifying information removed. The work aims to promote fairness and inclusivity in AI systems by making visible the linguistic biases embedded in current NLP technologies.
+
+
+
