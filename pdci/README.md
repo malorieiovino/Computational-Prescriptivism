@@ -8,9 +8,8 @@ It measures:
 - **Certainty Inflation Index (CII)** → how much uncertainty is turned into categorical certainty
 - **Pragmatic Distortion Score (PDS)** → weighted combination of the above
 - **PDCI** → overall score:  
-  \[
-  \text{PDCI} = \lambda \cdot \text{CII} + (1 - \lambda) \cdot \text{PDS}
-  \]
+PDCI = λ · CII + (1 − λ) · PDS
+
 
 ---
 
