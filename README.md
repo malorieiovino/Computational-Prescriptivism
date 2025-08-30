@@ -147,6 +147,15 @@ Computational-Prescriptivism/
 | GPT-3.5 (Default) | 0.193 | High distortion |
 | GPT-3.5 (Feature-Preserving) | 0.146 | Moderate distortion |
 
+## PDCI Metric
+
+This repository also contains the implementation of the **Prescriptive Discourse Confidence Index (PDCI)**,
+a custom evaluation metric for summarization systems that captures pragmatic distortions 
+(hedges, modals, conditionals, disfluencies, certainty shifts).
+
+➡️ See [pdci](pdci/README.md) for usage instructions and examples.
+
+
 ## Academic Context 
 
 This thesis was completed as part of the MA Computational Linguistics programme at Goldsmiths, University of London. The research was conducted between September 2024 and September 2025, with field project support from Nextpoint, a legal technology company.
